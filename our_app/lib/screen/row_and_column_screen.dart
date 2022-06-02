@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:our_app/screen/news_card_screen.dart';
+import 'package:our_app/widget/news_card.dart';
 
 class RowAndColumnScreen extends StatelessWidget {
   @override
